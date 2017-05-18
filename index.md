@@ -15,3 +15,8 @@ Facebook: BassetHoundSound
  - [Instagram account](https://www.instagram.com/bassethoundsound/). I often share pieces of my work or inspirations there.
  - [PDF of our current inventory](inventory.pdf). Please email us with any inquiries about renting additional equipment for a recording session or live event.
 
+<style>
+.container {
+    max-width: 980px;
+   }
+</style>
